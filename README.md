@@ -1,1 +1,1 @@
-# DataStructurePractices
+# Data Structure
